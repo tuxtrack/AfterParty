@@ -10,3 +10,6 @@ This project inspects targets (.exe's and dll's) .NET assembly's CIL for calls t
 ## References
 
 https://github.com/matterpreter/OffensiveCSharp/tree/master/InspectAssembly
+https://www.tiraniddo.dev/2014/11/stupid-is-as-stupid-does-when-it-comes.html
+https://versprite.com/blog/security-research/abusing-insecure-wcf-endpoints/
+https://www.modzero.com/modlog/archives/2020/04/17/deserialization_attacks_in__net_games/index.html
